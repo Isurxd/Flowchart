@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T01:49:26.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bZhZpE3J9aWUMrOe4MAs" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T01:49:47.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7XPg6WEfAXEg6CbQE5uD" version="24.5.5" type="github">
   <diagram name="Halaman-1" id="AX21EMOPGa3suk6Pr6Av">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="2tXRABMwCC58N1Y8D_Nx-28" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2tXRABMwCC58N1Y8D_Nx-30" value="iya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="338" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
